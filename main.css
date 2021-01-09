@@ -1,6 +1,13 @@
 body{
-    background-color: whitesmoke;    
+    background-color: #fca8a8;    
 }
 h1 span{
-    background-color: red;
+    margin:10px;
+    padding:10px;
+    background-color:aqua;
+}
+p  {
+    background-color: blueviolet;
+    margin: 50px;
+    padding: 50px;
 }
